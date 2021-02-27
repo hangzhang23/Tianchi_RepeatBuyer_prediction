@@ -11,7 +11,7 @@
 
 
 -----
-附两种gbdt模型自动化调参：
+附两种gbdt模型自动化调参：  
 模型调参过程中用了GridSearchCV来寻找最优参数，另对xgboost和lightgbm的调参步骤略有不同。
 
 **xgboost调参步骤**：  
